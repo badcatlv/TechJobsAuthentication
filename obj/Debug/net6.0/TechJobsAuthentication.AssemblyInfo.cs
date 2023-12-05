@@ -10,10 +10,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechJobsAuthentication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f901fb32ea130ccccf36d350eb6d38917b9e8227")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechJobsAuthentication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechJobsAuthentication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
