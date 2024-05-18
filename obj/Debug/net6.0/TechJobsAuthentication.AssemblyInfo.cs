@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechJobsAuthentication")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c28858e10b104b4f09bf14e20fd2ec351e010364")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e3aa764cff6bdc119a97a7532174999832101cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechJobsAuthentication")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechJobsAuthentication")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

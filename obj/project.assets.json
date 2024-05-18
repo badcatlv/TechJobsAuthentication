@@ -11173,11 +11173,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\colle\\Source\\Repos\\TechJobsAuthentication\\TechJobsAuthentication.csproj",
+      "projectUniqueName": "C:\\Users\\colle\\source\\repos\\C#\\ORMExample\\TechJobsAuthentication.csproj",
       "projectName": "TechJobsAuthentication",
-      "projectPath": "C:\\Users\\colle\\Source\\Repos\\TechJobsAuthentication\\TechJobsAuthentication.csproj",
+      "projectPath": "C:\\Users\\colle\\source\\repos\\C#\\ORMExample\\TechJobsAuthentication.csproj",
       "packagesPath": "C:\\Users\\colle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\colle\\Source\\Repos\\TechJobsAuthentication\\obj\\",
+      "outputPath": "C:\\Users\\colle\\source\\repos\\C#\\ORMExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\colle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -11200,6 +11200,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -11258,7 +11263,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205\\RuntimeIdentifierGraph.json"
       }
     }
   }
